@@ -1,0 +1,13 @@
+C:\Users\levi4\TAFE\OneDrive - TAFE\Diploma\Semester 2\Advanced OOD\ColoursApp\ColoursApp\ColoursApp\bin\Debug\ColoursApp.exe.config
+C:\Users\levi4\TAFE\OneDrive - TAFE\Diploma\Semester 2\Advanced OOD\ColoursApp\ColoursApp\ColoursApp\bin\Debug\ColoursApp.exe
+C:\Users\levi4\TAFE\OneDrive - TAFE\Diploma\Semester 2\Advanced OOD\ColoursApp\ColoursApp\ColoursApp\bin\Debug\ColoursApp.pdb
+C:\Users\levi4\TAFE\OneDrive - TAFE\Diploma\Semester 2\Advanced OOD\ColoursApp\ColoursApp\ColoursApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\levi4\TAFE\OneDrive - TAFE\Diploma\Semester 2\Advanced OOD\ColoursApp\ColoursApp\ColoursApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\levi4\TAFE\OneDrive - TAFE\Diploma\Semester 2\Advanced OOD\ColoursApp\ColoursApp\ColoursApp\obj\Debug\ColoursApp.csprojAssemblyReference.cache
+C:\Users\levi4\TAFE\OneDrive - TAFE\Diploma\Semester 2\Advanced OOD\ColoursApp\ColoursApp\ColoursApp\obj\Debug\ColoursApp.Properties.Resources.resources
+C:\Users\levi4\TAFE\OneDrive - TAFE\Diploma\Semester 2\Advanced OOD\ColoursApp\ColoursApp\ColoursApp\obj\Debug\ColoursApp.csproj.GenerateResource.cache
+C:\Users\levi4\TAFE\OneDrive - TAFE\Diploma\Semester 2\Advanced OOD\ColoursApp\ColoursApp\ColoursApp\obj\Debug\ColoursApp.csproj.CoreCompileInputs.cache
+C:\Users\levi4\TAFE\OneDrive - TAFE\Diploma\Semester 2\Advanced OOD\ColoursApp\ColoursApp\ColoursApp\obj\Debug\ColoursApp.csproj.CopyComplete
+C:\Users\levi4\TAFE\OneDrive - TAFE\Diploma\Semester 2\Advanced OOD\ColoursApp\ColoursApp\ColoursApp\obj\Debug\ColoursApp.exe
+C:\Users\levi4\TAFE\OneDrive - TAFE\Diploma\Semester 2\Advanced OOD\ColoursApp\ColoursApp\ColoursApp\obj\Debug\ColoursApp.pdb
+C:\Users\levi4\TAFE\OneDrive - TAFE\Diploma\Semester 2\Advanced OOD\ColoursApp\ColoursApp\ColoursApp\obj\Debug\ColoursApp.FrmMain.resources

@@ -1,0 +1,30 @@
+{"Colours":[ {"Name": "Red",
+			 "Hex": "#FF0000",
+			 "RGBA": [255, 0, 0, 255]
+			},
+			{"Name": "Orange",
+			 "Hex": "#FFA500",
+			 "RGBA": [255, 165, 0, 255]
+			},
+			{"Name": "Yellow",
+			 "Hex": "#FFFF00",
+			 "RGBA": [255, 255, 0, 255]
+			},
+			{"Name": "Green",
+			 "Hex": "#008000",
+			 "RGBA": [0, 128, 0, 255]
+			},
+			{"Name": "Blue",
+			 "Hex": "#0000ff",
+			 "RGBA": [0, 0, 255, 255]
+			},
+			{"Name": "Indigo",
+			 "Hex": "#4B0082",
+			 "RGBA": [75, 0, 130, 255]
+			},
+			{"Name": "Violet",
+			 "Hex": "#EE82EE",
+			 "RGBA": [238, 130, 238, 255]
+			}
+	]
+}
